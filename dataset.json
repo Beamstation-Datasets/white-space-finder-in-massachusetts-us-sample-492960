@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Massachusetts that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Massachusetts, US",
+  "export_job_id": "1a6cc9ac-e17b-4cc0-bb78-dff9b6c37ca6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 492960,
+  "location_name": "Massachusetts",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-massachusetts-us-sample-492960",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/492960/beamstation_492960_food_and_drink-us-ma_SAMPLE_DIST.csv",
+  "sample_pct": 7.14,
+  "sample_records": 2,
+  "sample_sha256": "94c79d15f8a34e24c3c59bcc36f639ca39b097f89c1962e73d9889e7600bc903",
+  "sample_size_bytes": 23245,
+  "total_records": 28,
+  "updated_at": "2026-04-08T02:19:46.249987+00:00"
+}
