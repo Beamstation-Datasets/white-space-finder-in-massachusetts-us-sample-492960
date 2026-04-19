@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1a6cc9ac-e17b-4cc0-bb78-dff9b6c37ca6",
+  "export_job_id": "0b0f74dc-266c-4bc3-905f-a1834b9a418c",
   "id_short": 492960,
-  "published_at": "2026-04-12T19:44:28Z",
+  "published_at": "2026-04-19T07:51:46Z",
   "repo_name": "white-space-finder-in-massachusetts-us-sample-492960",
   "sample_asset_name": "beamstation_492960_food_and_drink-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/492960/beamstation_492960_food_and_drink-us-ma_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "94c79d15f8a34e24c3c59bcc36f639ca39b097f89c1962e73d9889e7600bc903",
-  "sample_size_bytes": 23245,
-  "total_records": 28
+  "sample_sha256": "4a308417826caef72a239b02f230ed8189cbaa84c159349199c35c51a50e1525",
+  "sample_size_bytes": 24718,
+  "total_records": 26
 }
