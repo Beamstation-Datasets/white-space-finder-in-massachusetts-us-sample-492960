@@ -9,9 +9,9 @@
 | Dataset ID | `492960` |
 | Location | Massachusetts |
 | Category | Restaurants |
-| Full dataset size | 26 records |
-| Free sample size | 2 records (7.69%) |
-| Last export | 2026-04-15T07:41:57.994576+00:00 |
+| Full dataset size | 21 records |
+| Free sample size | 2 records (9.52%) |
+| Last export | 2026-04-22T14:08:28.106818+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-massachusetts-us-sample-492960/releases/download/sample-latest/beamstation_492960_food_and_drink-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
