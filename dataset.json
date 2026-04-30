@@ -6,17 +6,17 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Massachusetts that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Massachusetts, US",
-  "export_job_id": "dd0e0c94-2d6a-437b-9c27-ac15ad52bc9c",
+  "export_job_id": "614a287b-1be9-42e2-81e2-bec780496bfa",
   "github_org": "Beamstation-Datasets",
   "id_short": 492960,
   "location_name": "Massachusetts",
   "location_type": "state",
   "repo_name": "white-space-finder-in-massachusetts-us-sample-492960",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/492960/beamstation_492960_food_and_drink-us-ma_SAMPLE_DIST.csv",
-  "sample_pct": 9.52,
+  "sample_pct": 7.14,
   "sample_records": 2,
-  "sample_sha256": "e6b5f6ec4543fc97e8065bca5618afa9fb148f3a401af96a7549a5ca738b6899",
-  "sample_size_bytes": 24679,
-  "total_records": 21,
-  "updated_at": "2026-04-22T14:08:28.106818+00:00"
+  "sample_sha256": "5f5fb3a34a872b5efd1f58c6fdfd2155beeb865e3ad66f8dda15a72cb6f85ecb",
+  "sample_size_bytes": 22722,
+  "total_records": 28,
+  "updated_at": "2026-04-29T14:38:20.930261+00:00"
 }
